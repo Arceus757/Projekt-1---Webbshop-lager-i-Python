@@ -1,6 +1,6 @@
-__author__  = "Förnamn Efternamn"
+__author__  = "Dmytro"
 __version__ = "1.0.0"
-__email__   = "förnamn.efternamn@elev.ga.ntig.se"
+__email__   = "dmytro.malanchuk@elev.ga.ntig.se"
 
 import csv
 import locale
